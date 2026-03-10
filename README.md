@@ -21,9 +21,9 @@ O trabalho demonstra como a **IA pode ser utilizada para aprendizado**, aliando 
 ---
 
 ## Fontes Utilizadas
-1. [Como funcionam os juros compostos? | Degiro]([https://www.serasa.com.br/ensina/seu-dinheiro/juros-compostos/](https://www.degiro.pt/centro-de-conhecimento/estrategias/juros-compostos)  
+1. [Como funcionam os juros compostos? | Degiro](https://www.degiro.pt/centro-de-conhecimento/estrategias/juros-compostos)  
 2. [Juros Compostos: o que é, como calcular e exemplos | Mobills](https://www.mobills.com.br/blog/investimentos/juros-compostos/)  
-3. [Juros compostos ou como ganhar mais com investimentos | Saldo Positivo]([https://www.b3.com.br/pt_br/educacao-financeira/juros-compostos/](https://www.cgd.pt/Site/Saldo-Positivo/o-banco-e-eu/Pages/juros-compostos.aspx?srsltid=AfmBOopEUdDpFGCmHtBmkfuqJYLbocQQDsVXZTYT-Q-IB--ABTeJJmTi)  
+3. [Juros compostos ou como ganhar mais com investimentos | Saldo Positivo] (https://www.cgd.pt/Site/Saldo-Positivo/o-banco-e-eu/Pages/juros-compostos.aspx?srsltid=AfmBOopEUdDpFGCmHtBmkfuqJYLbocQQDsVXZTYT-Q-IB--ABTeJJmTi).  
 
 ---
 
